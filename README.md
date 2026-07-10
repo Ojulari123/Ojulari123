@@ -1,6 +1,4 @@
 ## Hi, I'm OJ ♧
-
-# 💫 About Me:
 🧠 Computer Science student at the University of Guelph, passionate about building impactful software solutions.<br>💻 Full-stack developer specializing in designing, developing, and optimizing modern web applications with a focus on SEO, AEO, and GEO strategies.<br>📌 Experienced in leading and managing software projects, including project coordination, Agile workflows, and Scrum methodologies.<br>🌎 Helping businesses establish a stronger digital presence through custom full-stack web solutions.
 
 

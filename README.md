@@ -1,4 +1,4 @@
-## Hi, I'm OJ ♧ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoluwa-ojulari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeoluwaojulari@gmail.com) 
+## Hi, I'm OJ ♧ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoluwa-ojulari-5b4582271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeoluwaojulari@gmail.com) 
 🧠 Computer Science student at the University of Guelph, passionate about building impactful software solutions.<br>💻 Full-stack developer specializing in designing, developing, and optimizing web applications with a focus on SEO, AEO, and GEO.<br>📌 Experienced in leading and managing software projects, including project coordination, Agile workflows, and Scrum methodologies.<br>🌎 Helping businesses establish a stronger digital presence through custom full-stack web solutions.
 
 # Tech Stack

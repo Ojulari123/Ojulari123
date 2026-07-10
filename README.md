@@ -1,4 +1,4 @@
-## Hi, I'm OJ ♧
+## Hi, I'm OJ ♧ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoluwa-ojulari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeoluwaojulari@gmail.com) 
 🧠 Computer Science student at the University of Guelph, passionate about building impactful software solutions.<br>💻 Full-stack developer specializing in designing, developing, and optimizing web applications with a focus on SEO, AEO, and GEO.<br>📌 Experienced in leading and managing software projects, including project coordination, Agile workflows, and Scrum methodologies.<br>🌎 Helping businesses establish a stronger digital presence through custom full-stack web solutions.
 
 # Tech Stack
@@ -9,8 +9,6 @@
 ![](https://streak-stats.demolab.com/?user=Ojulari123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ojulari123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoluwa-ojulari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeoluwaojulari@gmail.com) 
 ---
 [![](https://komarev.com/ghpvc/?username=Ojulari123&icon=0&color=0)](https://visitcount.itsvg.in)
 

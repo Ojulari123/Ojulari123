@@ -81,7 +81,7 @@ A service-based platform combining Identity for accounts and access, Pulse for G
 
 </td>
 <td width="50%" valign="top">
-<img src="assets/hephzibah.svg" width="100%" alt="Hephzibah Luxe architecture overview" />
+<a href="https://hephzibahluxe.com"><img src="assets/hephzibah.svg" width="100%" alt="Hephzibah Luxe architecture overview" /></a>
 
 ### 04 / Hephzibah Luxe
 **One workspace for an entire event-planning engagement.**
@@ -90,7 +90,7 @@ A full-stack event-planning platform with a client portal, a six-phase planning 
 
 **Stack:** Next.js · Django REST Framework · PostgreSQL · Redis · Cloudflare R2
 
-**Demo available on request**
+**[Explore Hephzibah Luxe](https://hephzibahluxe.com)**
 
 </td>
 </tr>

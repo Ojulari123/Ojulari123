@@ -68,16 +68,16 @@ A team project for the AWS Agents for Humans hackathon. The agent uses email and
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Ojulari123/CC-Platforms"><img src="assets/cc-platforms.svg" width="100%" alt="CC-Platforms architecture overview" /></a>
+<a href="https://crown-barbershop-six.vercel.app"><img src="assets/crown.jpg" width="100%" alt="Crown Barber Shop website with chair reservations and services" /></a>
 
-### 03 / CC-Platforms
-**Shared identity across reporting and ML learning tools.**
+### 03 / Crown Barber Shop
+**A public website connected to the shop's daily operations.**
 
-A service-based platform combining Identity for accounts and access, Pulse for GitHub activity and engineering reports, and Forge for no-code ML learning. Shared authentication and components connect separate APIs and frontends.
+A full-stack client demo with chair requests, walk-ins, customer messages, and an admin portal for managing services, prices, hours, and photos. An SMS outbox handles confirmations and scheduled reminders, with messages kept in dry-run mode in the demo.
 
-**Stack:** FastAPI · Nuxt · PostgreSQL · Redis · Docker
+**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Twilio
 
-**[Explore CC-Platforms](https://github.com/Ojulari123/CC-Platforms)**
+**[Explore Crown Barber Shop](https://crown-barbershop-six.vercel.app)** · [View source](https://github.com/Ojulari123/crown-barbershop)
 
 </td>
 <td width="50%" valign="top">

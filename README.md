@@ -81,7 +81,7 @@ A full-stack client demo with chair requests, walk-ins, customer messages, and a
 
 </td>
 <td width="50%" valign="top">
-<a href="https://hephzibahluxe.com"><img src="assets/hephzibah.svg" width="100%" alt="Hephzibah Luxe architecture overview" /></a>
+<a href="https://hephzibahluxe.com"><img src="assets/hephzibah.jpg" width="100%" alt="Hephzibah Luxe live event-planning website" /></a>
 
 ### 04 / Hephzibah Luxe
 **One workspace for an entire event-planning engagement.**
@@ -90,7 +90,7 @@ A full-stack event-planning platform with a client portal, a six-phase planning 
 
 **Stack:** Next.js · Django REST Framework · PostgreSQL · Redis · Cloudflare R2
 
-**[Explore Hephzibah Luxe](https://hephzibahluxe.com)**
+**[Explore Hephzibah Luxe](https://hephzibahluxe.com)** · [View source](https://github.com/HephLuxe/HephzibahLuxe)
 
 </td>
 </tr>

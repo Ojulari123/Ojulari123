@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#selected-projects"><strong>projects</strong></a> &nbsp; · &nbsp;
+  <a href="#selected-projects"><strong>Projects</strong></a> &nbsp; · &nbsp;
   <a href="assets/Adeoluwa-Ojulari-Resume.pdf"><strong>Resume</strong></a> &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/adeoluwa-ojulari-5b4582271/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
   <a href="mailto:adeoluwaojulari@gmail.com"><strong>Email</strong></a>
@@ -68,22 +68,9 @@ A team project for the AWS Agents for Humans hackathon. The agent uses email and
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://crown-barbershop-six.vercel.app"><img src="assets/crown.jpg" width="100%" alt="Crown Barber Shop website with chair reservations and services" /></a>
-
-### 03 / Crown Barber Shop
-**A public website connected to the shop's daily operations.**
-
-A full-stack client demo with chair requests, walk-ins, customer messages, and an admin portal for managing services, prices, hours, and photos. An SMS outbox handles confirmations and scheduled reminders, with messages kept in dry-run mode in the demo.
-
-**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Twilio
-
-**[Explore Crown Barber Shop](https://crown-barbershop-six.vercel.app)** · [View source](https://github.com/Ojulari123/crown-barbershop)
-
-</td>
-<td width="50%" valign="top">
 <a href="https://hephzibahluxe.com"><img src="assets/hephzibah.jpg" width="100%" alt="Hephzibah Luxe live event-planning website" /></a>
 
-### 04 / Hephzibah Luxe
+### 03 / Hephzibah Luxe
 **One workspace for an entire event-planning engagement.**
 
 A full-stack event-planning platform with a client portal, a six-phase planning journey, meeting preparation, contracts, payment records, and vendor budgets. Separate client identities and event engagements preserve the history of returning clients.
@@ -91,6 +78,19 @@ A full-stack event-planning platform with a client portal, a six-phase planning 
 **Stack:** Next.js · Django REST Framework · PostgreSQL · Redis · Cloudflare R2
 
 **[Explore Hephzibah Luxe](https://hephzibahluxe.com)** · [View source](https://github.com/HephLuxe/HephzibahLuxe)
+
+</td>
+<td width="50%" valign="top">
+<a href="https://crown-barbershop-six.vercel.app"><img src="assets/crown.jpg" width="100%" alt="Crown Barber Shop website with chair reservations and services" /></a>
+
+### 04 / Crown Barber Shop
+**A public website connected to the shop's daily operations.**
+
+A full-stack client demo with chair requests, walk-ins, customer messages, and an admin portal for managing services, prices, hours, and photos. An SMS outbox handles confirmations and scheduled reminders, with messages kept in dry-run mode in the demo.
+
+**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Twilio
+
+**[Explore Crown Barber Shop](https://crown-barbershop-six.vercel.app)** · [View source](https://github.com/Ojulari123/crown-barbershop)
 
 </td>
 </tr>
@@ -126,10 +126,19 @@ A 28-page landscaping website with dedicated service pages, a project gallery, s
 
 ## From my work terms
 
-At **Value-N-Action Consulting**, I shipped the company website and built an AI agent platform with ten workflows across three agents. At **Badger Redwood**, I built full-stack supply chain features and dashboards using React, TypeScript, and Python. At **JREN Energy**, I contributed to the public website and Chilink conferencing app. At **RAA I.T.**, I developed customer-management features including authentication, role-based access, product workflows, and WebSocket chat.
+- **Value-N-Action Consulting** — Shipped the company website and built an AI agent platform with ten workflows across three agents.
+- **Badger Redwood** — Built full-stack supply chain features and dashboards using React, TypeScript, and Python.
+- **JREN Energy** — Contributed to the public website and the Chilink conferencing app.
+- **RAA I.T.** — Developed customer-management features including authentication, role-based access, product workflows, and WebSocket chat.
 
-[Read my work-term report](https://wkterm-report.vercel.app/) · [View my résumé](assets/Adeoluwa-Ojulari-Resume.pdf)
+<p align="center">
+  <a href="https://wkterm-report.vercel.app/"><strong>Read my work-term report</strong></a>
+</p>
 
 ---
 
-Have a project in mind, or want to talk about something I've built? [Email me](mailto:adeoluwaojulari@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/adeoluwa-ojulari-5b4582271/).
+<p align="center">
+  <strong>Have a project in mind, or want to talk about something I've built?</strong><br />
+  <a href="mailto:adeoluwaojulari@gmail.com">Email me</a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/adeoluwa-ojulari-5b4582271/">Connect on LinkedIn</a>
+</p>

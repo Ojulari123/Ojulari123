@@ -1,93 +1,134 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="OJ — Full-stack development, from interface to infrastructure" />
+  <img src="assets/header.svg" width="100%" alt="OJ — Selected work. Software, systems, and the details between." />
 </p>
 
 <p align="center">
-  <a href="#selected-projects"><strong>Explore my projects</strong></a> &nbsp; · &nbsp;
+  <a href="#selected-projects"><strong>projects</strong></a> &nbsp; · &nbsp;
+  <a href="assets/Adeoluwa-Ojulari-Resume.pdf"><strong>Resume</strong></a> &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/adeoluwa-ojulari-5b4582271/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
-  <a href="mailto:adeoluwaojulari@gmail.com"><strong>Email me</strong></a>
+  <a href="mailto:adeoluwaojulari@gmail.com"><strong>Email</strong></a>
 </p>
 
 ## Hi, I'm OJ ♧
 
-I'm a **Computer Science student at the University of Guelph** and a **full-stack developer**. I build web applications and business websites, working across the interface, APIs, databases, and deployment.
+I'm a **fourth-year Bachelor of Computing (Co-op) student at the University of Guelph**, with a minor in Business. My co-op work spans supply chain, energy, e-commerce, and consulting, with contributions to frontend features, backend services, and the work that connects them.
 
-My projects range from cryptocurrency portfolio tracking and loan workflow simulation to booking systems and local business websites. I'm also interested in browser performance, shared platform architecture, and making websites easier to find through search.
+I build full-stack applications and business websites. My work includes the backend for Cribb, AI-assisted workflows, shared platform services, and client portals that bring scattered business processes into one place.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Anthropic-6B4FBB?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
 
 ## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://cypher-crescent.vercel.app"><img src="assets/cypher.jpg" width="100%" alt="Cypher Crescent sign-in screen" /></a>
+<a href="https://findyourcribb.com"><img src="assets/cribb.jpg" width="100%" alt="Cribb project preview" /></a>
 
-### 01 / Cypher Crescent
-**Cryptocurrency holdings, market data, and portfolio tracking.**
+### 01 / Cribb
+**Student housing, with the backend to support it.**
 
-A full-stack app for recording holdings, following live prices, and tracking profit and loss. Includes watchlists, price alerts, Redis caching, and authentication with refresh-token rotation and optional email verification codes.
+I developed the backend for a student housing platform with listings, sublets, weighted roommate matching, and a marketplace. My work includes 100+ API endpoints, role-based authentication, viewing bookings and reminders, and landlord verification using AWS S3 and Textract.
 
-**Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `CoinGecko`
+**Stack:** Python · FastAPI · PostgreSQL · AWS S3 · Textract
 
-**[Open the app](https://cypher-crescent.vercel.app)** · [View source](https://github.com/Ojulari123/CypherCrescent)
+**[Explore Cribb](https://findyourcribb.com)**
 
 </td>
 <td width="50%" valign="top">
-<a href="https://loan-workflow-one.vercel.app"><img src="assets/loan.jpg" width="100%" alt="Northline Capital loan workflow simulator and payment estimator" /></a>
+<a href="https://openloop-neon.vercel.app"><img src="assets/openloops.png" width="100%" alt="Open Loops project preview" /></a>
 
-### 02 / Loan Workflow
-**A lending simulator with customer and staff views.**
+### 02 / Open Loops
+**An AI agent for responsibilities that need follow-through.**
 
-Customers can estimate payments, apply for a loan, and follow repayment. Staff can review applications and see the portfolio. Both views share a MySQL-backed API, with an AI-assisted underwriting assessment.
+A team project for the AWS Agents for Humans hackathon. The agent uses email and calendar evidence to track unresolved responsibilities, check whether they are already done, and prepare actions while keeping consequential decisions behind an approval step.
 
-**Stack:** `React` `TypeScript` `Spring Boot` `Java` `MySQL` `Claude`
+**Stack:** Next.js · TypeScript · Strands Agents · Bedrock · DynamoDB
 
-**[Explore the demo](https://loan-workflow-one.vercel.app)** · [View source](https://github.com/Ojulari123/loan-workflow)
+**[Explore Open Loops](https://openloop-neon.vercel.app)** · [View source](https://github.com/Omggdavidd/openloops)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://crown-barbershop-six.vercel.app"><img src="assets/crown.jpg" width="100%" alt="Crown Barber Shop website with services and chair reservation links" /></a>
+<a href="https://github.com/Ojulari123/CC-Platforms"><img src="assets/cc-platforms.svg" width="100%" alt="CC-Platforms architecture overview" /></a>
 
-### 03 / Crown Barber Shop
-**A shop website with a booking and management portal.**
+### 03 / CC-Platforms
+**Shared identity across reporting and ML learning tools.**
 
-A client demo that connects a public website to an admin workspace for chair requests, walk-ins, messages, prices, and hours. Includes an SMS outbox and reminder scheduling, with texts kept in dry-run mode for the demo.
+A service-based platform combining Identity for accounts and access, Pulse for GitHub activity and engineering reports, and Forge for no-code ML learning. Shared authentication and components connect separate APIs and frontends.
 
-**Stack:** `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Twilio`
+**Stack:** FastAPI · Nuxt · PostgreSQL · Redis · Docker
 
-**[Visit the demo](https://crown-barbershop-six.vercel.app)** · [View source](https://github.com/Ojulari123/crown-barbershop)
+**[Explore CC-Platforms](https://github.com/Ojulari123/CC-Platforms)**
 
 </td>
 <td width="50%" valign="top">
-<a href="https://leafitalone.vercel.app"><img src="assets/leaf.jpg" width="100%" alt="Leaf It Alone landscaping website homepage" /></a>
+<img src="assets/hephzibah.svg" width="100%" alt="Hephzibah Luxe architecture overview" />
 
-### 04 / Leaf It Alone
-**A service website built around local search and quote requests.**
+### 04 / Hephzibah Luxe
+**One workspace for an entire event-planning engagement.**
 
-A 28-page landscaping website with dedicated service pages, a project gallery, seasonal guidance, a blog, and a multi-step quote form. Built as a static site with structured content and redirects for existing blog URLs.
+A full-stack event-planning platform with a client portal, a six-phase planning journey, meeting preparation, contracts, payment records, and vendor budgets. Separate client identities and event engagements preserve the history of returning clients.
 
-**Stack:** `Astro` `TypeScript` `HTML` `CSS` `Vercel`
+**Stack:** Next.js · Django REST Framework · PostgreSQL · Redis · Cloudflare R2
 
-**[Visit the website](https://leafitalone.vercel.app)** · [View source](https://github.com/Ojulari123/leafitalone)
+**Demo available on request**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://loan-workflow-one.vercel.app"><img src="assets/loan.jpg" width="100%" alt="Loan Workflow project preview" /></a>
+
+### 05 / Loan Workflow
+**Customer and staff views of a lending workflow.**
+
+A lending simulator where customers estimate payments, submit applications, and follow repayment, while staff review applications and monitor the portfolio. Both roles share a MySQL-backed API with an AI-assisted underwriting assessment.
+
+**Stack:** React · TypeScript · Spring Boot · Java · MySQL · Claude
+
+**[Explore Loan Workflow](https://loan-workflow-one.vercel.app)** · [View source](https://github.com/Ojulari123/loan-workflow)
+
+</td>
+<td width="50%" valign="top">
+<a href="https://leafitalone.vercel.app"><img src="assets/leaf.jpg" width="100%" alt="Leaf It Alone project preview" /></a>
+
+### 06 / Leaf It Alone
+**Local service content and a clear path to requesting a quote.**
+
+A 28-page landscaping website with dedicated service pages, a project gallery, seasonal guidance, a blog, and a multi-step quote form. Built with Astro as a static site, with structured content and redirects for existing blog URLs.
+
+**Stack:** Astro · TypeScript · HTML · CSS · Vercel
+
+**[Explore Leaf It Alone](https://leafitalone.vercel.app)** · [View source](https://github.com/Ojulari123/leafitalone)
 
 </td>
 </tr>
 </table>
 
-## Behind the interfaces
+## From my work terms
 
-| Project | What it explores | Code |
-| --- | --- | --- |
-| **CypherCrescent Platforms** | Shared identity for engineering reporting and a no-code ML learning platform. Separate services use a common login system, shared components, and locally verified JWTs. | [Explore the platform](https://github.com/Ojulari123/CC-Platforms) |
-| **JavaScript vs WebAssembly** | A browser benchmark suite comparing JavaScript algorithms with C++ compiled to WebAssembly. Uses seeded inputs, correctness checks, timing charts, and exportable results. | [Explore the research](https://github.com/Ojulari123/benchmark-suite) |
-| **Automated Messaging Platform** | A team-built system for occasion messages, reusable templates, and admin-approved membership, with a FastAPI backend and SMS integration. | [Explore the system](https://github.com/Ojulari123/Automated-Messaging-Platform) |
+At **Value-N-Action Consulting**, I shipped the company website and built an AI agent platform with ten workflows across three agents. At **Badger Redwood**, I built full-stack supply chain features and dashboards using React, TypeScript, and Python. At **JREN Energy**, I contributed to the public website and Chilink conferencing app. At **RAA I.T.**, I developed customer-management features including authentication, role-based access, product workflows, and WebSocket chat.
 
-## Tools I work with
-
-**Frontend:** TypeScript · JavaScript · React · Next.js · Vue/Nuxt · Astro · Tailwind CSS  
-**Backend & data:** Python · FastAPI · Java · Spring Boot · PostgreSQL · MySQL · Redis  
-**Delivery & design:** Git · Docker · Vercel · Render · Figma
+[Read my work-term report](https://wkterm-report.vercel.app/) · [View my résumé](assets/Adeoluwa-Ojulari-Resume.pdf)
 
 ---
 

@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">OJ — Full-stack developer</title><desc id="desc">From interface to infrastructure. Web applications, business websites, and software experiments.</desc>
-<rect width="1200" height="300" rx="18" fill="#101b25"/>
-<path d="M900 0v300M1000 0v300M1100 0v300M800 75h400M800 150h400M800 225h400" stroke="#233340"/>
-<circle cx="1000" cy="150" r="82" fill="none" stroke="#8ae1c0" stroke-width="2"/>
-<path d="M946 150h108M1000 96v108" stroke="#8ae1c0" stroke-width="2"/>
-<text x="56" y="61" font-family="Arial, sans-serif" font-size="14" letter-spacing="3" fill="#8ae1c0">OJ / FULL-STACK DEVELOPER</text>
-<text x="56" y="127" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#f2f5f6">From interface</text>
-<text x="56" y="183" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#f2f5f6">to infrastructure.</text>
-<text x="56" y="242" font-family="Arial, sans-serif" font-size="18" fill="#b4c4cd">Web applications · Business websites · Software experiments</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320"><title>OJ — selected work, software and systems</title><rect width="1200" height="320" rx="16" fill="#f4f0e8"/><rect x="24" y="24" width="1152" height="272" rx="9" fill="none" stroke="#c9c1b5"/><text x="55" y="68" font-family="monospace" font-size="15" fill="#5c5465" letter-spacing="3">ADEOLUWA OJULARI</text><text x="47" y="239" font-family="Arial,sans-serif" font-size="180" font-weight="900" letter-spacing="-16" fill="#5c3ce8">OJ<tspan fill="#211c2b">.</tspan></text><path d="M450 95v165" stroke="#c9c1b5"/><text x="490" y="133" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#211c2b">Selected work.</text><text x="490" y="177" font-family="Arial,sans-serif" font-size="25" fill="#5c5465">Software, systems, and the details between.</text><text x="490" y="244" font-family="monospace" font-size="16" fill="#5c3ce8">FULL-STACK DEVELOPMENT / GUELPH, ON</text><circle cx="1084" cy="74" r="13" fill="#c9ff6b" stroke="#211c2b"/><path d="M1069 244h35m-17-17v35" stroke="#211c2b" stroke-width="2"/></svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="OJ — Full-stack developer. Software, systems, and the details between." />
+  <img src="assets/header.svg" width="100%" alt="OJ — Building ideas into software. Software, systems, and the details between." />
 </p>
 
 <p align="center">

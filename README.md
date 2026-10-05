@@ -1,14 +1,94 @@
-## Hi, I'm OJ ♧ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoluwa-ojulari-5b4582271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeoluwaojulari@gmail.com) 
-🧠 Computer Science student at the University of Guelph, passionate about building impactful software solutions.<br>💻 Full-stack developer specializing in designing, developing, and optimizing web applications with a focus on SEO, AEO, and GEO.<br>📌 Experienced in leading and managing software projects, including project coordination, Agile workflows, and Scrum methodologies.<br>🌎 Helping businesses establish a stronger digital presence through custom full-stack web solutions.
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="OJ — Full-stack development, from interface to infrastructure" />
+</p>
 
-# Tech Stack
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<p align="center">
+  <a href="#selected-projects"><strong>Explore my projects</strong></a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/adeoluwa-ojulari-5b4582271/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:adeoluwaojulari@gmail.com"><strong>Email me</strong></a>
+</p>
 
-# GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Ojulari123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ojulari123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ojulari123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Hi, I'm OJ ♧
+
+I'm a **Computer Science student at the University of Guelph** and a **full-stack developer**. I build web applications and business websites, working across the interface, APIs, databases, and deployment.
+
+My projects range from cryptocurrency portfolio tracking and loan workflow simulation to booking systems and local business websites. I'm also interested in browser performance, shared platform architecture, and making websites easier to find through search.
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://cypher-crescent.vercel.app"><img src="assets/cypher.jpg" width="100%" alt="Cypher Crescent sign-in screen" /></a>
+
+### 01 / Cypher Crescent
+**Cryptocurrency holdings, market data, and portfolio tracking.**
+
+A full-stack app for recording holdings, following live prices, and tracking profit and loss. Includes watchlists, price alerts, Redis caching, and authentication with refresh-token rotation and optional email verification codes.
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `CoinGecko`
+
+**[Open the app](https://cypher-crescent.vercel.app)** · [View source](https://github.com/Ojulari123/CypherCrescent)
+
+</td>
+<td width="50%" valign="top">
+<a href="https://loan-workflow-one.vercel.app"><img src="assets/loan.jpg" width="100%" alt="Northline Capital loan workflow simulator and payment estimator" /></a>
+
+### 02 / Loan Workflow
+**A lending simulator with customer and staff views.**
+
+Customers can estimate payments, apply for a loan, and follow repayment. Staff can review applications and see the portfolio. Both views share a MySQL-backed API, with an AI-assisted underwriting assessment.
+
+**Stack:** `React` `TypeScript` `Spring Boot` `Java` `MySQL` `Claude`
+
+**[Explore the demo](https://loan-workflow-one.vercel.app)** · [View source](https://github.com/Ojulari123/loan-workflow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://crown-barbershop-six.vercel.app"><img src="assets/crown.jpg" width="100%" alt="Crown Barber Shop website with services and chair reservation links" /></a>
+
+### 03 / Crown Barber Shop
+**A shop website with a booking and management portal.**
+
+A client demo that connects a public website to an admin workspace for chair requests, walk-ins, messages, prices, and hours. Includes an SMS outbox and reminder scheduling, with texts kept in dry-run mode for the demo.
+
+**Stack:** `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Twilio`
+
+**[Visit the demo](https://crown-barbershop-six.vercel.app)** · [View source](https://github.com/Ojulari123/crown-barbershop)
+
+</td>
+<td width="50%" valign="top">
+<a href="https://leafitalone.vercel.app"><img src="assets/leaf.jpg" width="100%" alt="Leaf It Alone landscaping website homepage" /></a>
+
+### 04 / Leaf It Alone
+**A service website built around local search and quote requests.**
+
+A 28-page landscaping website with dedicated service pages, a project gallery, seasonal guidance, a blog, and a multi-step quote form. Built as a static site with structured content and redirects for existing blog URLs.
+
+**Stack:** `Astro` `TypeScript` `HTML` `CSS` `Vercel`
+
+**[Visit the website](https://leafitalone.vercel.app)** · [View source](https://github.com/Ojulari123/leafitalone)
+
+</td>
+</tr>
+</table>
+
+## Behind the interfaces
+
+| Project | What it explores | Code |
+| --- | --- | --- |
+| **CypherCrescent Platforms** | Shared identity for engineering reporting and a no-code ML learning platform. Separate services use a common login system, shared components, and locally verified JWTs. | [Explore the platform](https://github.com/Ojulari123/CC-Platforms) |
+| **JavaScript vs WebAssembly** | A browser benchmark suite comparing JavaScript algorithms with C++ compiled to WebAssembly. Uses seeded inputs, correctness checks, timing charts, and exportable results. | [Explore the research](https://github.com/Ojulari123/benchmark-suite) |
+| **Automated Messaging Platform** | A team-built system for occasion messages, reusable templates, and admin-approved membership, with a FastAPI backend and SMS integration. | [Explore the system](https://github.com/Ojulari123/Automated-Messaging-Platform) |
+
+## Tools I work with
+
+**Frontend:** TypeScript · JavaScript · React · Next.js · Vue/Nuxt · Astro · Tailwind CSS  
+**Backend & data:** Python · FastAPI · Java · Spring Boot · PostgreSQL · MySQL · Redis  
+**Delivery & design:** Git · Docker · Vercel · Render · Figma
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ojulari123&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Have a project in mind, or want to talk about something I've built? [Email me](mailto:adeoluwaojulari@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/adeoluwa-ojulari-5b4582271/).
